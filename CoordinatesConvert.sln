@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29020.237
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoordinatesConvertLibrary", "CoordinatesConvertLibrary\CoordinatesConvertLibrary.csproj", "{DA01AD4A-57E9-4CEE-A033-0EC684862781}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoordinatesConvertTest", "CoordinatesConvertTest\CoordinatesConvertTest.csproj", "{4A111876-653A-4248-A70D-DA3DD8C5EDB0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA01AD4A-57E9-4CEE-A033-0EC684862781}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA01AD4A-57E9-4CEE-A033-0EC684862781}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA01AD4A-57E9-4CEE-A033-0EC684862781}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA01AD4A-57E9-4CEE-A033-0EC684862781}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A111876-653A-4248-A70D-DA3DD8C5EDB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A111876-653A-4248-A70D-DA3DD8C5EDB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A111876-653A-4248-A70D-DA3DD8C5EDB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A111876-653A-4248-A70D-DA3DD8C5EDB0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {659C4081-1589-49C6-A014-58F5A7ECA6CD}
+	EndGlobalSection
+EndGlobal
